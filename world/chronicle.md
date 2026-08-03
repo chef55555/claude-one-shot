@@ -12,3 +12,5 @@
 
 **Tick 00006** · Day 1 of Sprouting · 🌌 Aurora — The sky was blessed with an aurora. Every creature stopped to watch. Even the vyrn.
 
+**Tick 00008** · Day 1 of Sprouting · 🌌 Aurora — Seeds fell from beyond the fog — a gift from an unseen gardener. Green freckles spread across the land.
+
