@@ -1,0 +1,100 @@
+name: 🫀 World Heartbeat
+
+# The world's pulse. Every hour this workflow wakes Cronterra, advances the
+# simulation by one tick, commits the new state (the git log IS the world's
+# timeline), and redeploys the viewer to GitHub Pages.
+
+on:
+  schedule:
+    - cron: '7 * * * *' # hourly heartbeat; one tick = one world-hour
+  workflow_dispatch:
+    inputs:
+      ticks:
+        description: 'How many ticks to advance (time compression)'
+        required: false
+        default: '1'
+      blessing:
+        description: 'Optional blessing to apply on the first tick'
+        required: false
+        default: 'none'
+        type: choice
+        options: ['none', 'rain', 'sun', 'seeds', 'beasts', 'aurora', 'meteor']
+
+concurrency:
+  group: cronterra-world
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  tick:
+    name: Advance the world
+    runs-on: ubuntu-latest
+    outputs:
+      headline: ${{ steps.tick.outputs.headline }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Genesis (first run only)
+        run: |
+          if [ ! -f world/state.json ]; then
+            node engine/cli.js genesis --seed="$GITHUB_SHA"
+          fi
+
+      - name: Tick
+        id: tick
+        run: |
+          BLESS='${{ inputs.blessing }}'
+          TICKS='${{ inputs.ticks }}'
+          [ "$BLESS" = 'none' ] && BLESS=''
+          node engine/cli.js tick --count="${TICKS:-1}" ${BLESS:+--bless=$BLESS}
+          node engine/cli.js status
+
+      - name: Commit the new state
+        env:
+          TICKNO: ${{ steps.tick.outputs.tick }}
+          HEADLINE: ${{ steps.tick.outputs.headline }}
+        run: |
+          git config user.name 'cronterra-world[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add world
+          if git diff --cached --quiet; then
+            echo 'World unchanged (should not happen)'; exit 0
+          fi
+          git commit -m "🌱 tick ${TICKNO} — ${HEADLINE}"
+          for delay in 2 4 8 16; do
+            if git push; then exit 0; fi
+            echo "Push failed, rebasing and retrying in ${delay}s…"
+            sleep "$delay"
+            git pull --rebase
+          done
+          git push
+
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          cp -r web/. _site/
+          cp -r world _site/world
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    name: Redeploy the viewer
+    needs: tick
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

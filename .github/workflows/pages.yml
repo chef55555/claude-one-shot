@@ -1,0 +1,41 @@
+name: 🗺️ Deploy Viewer
+
+# Deploys the viewer on ordinary pushes (code changes, the initial merge).
+# The heartbeat and oracle workflows redeploy on their own after each tick,
+# because pushes made with GITHUB_TOKEN don't retrigger workflows.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: cronterra-pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          cp -r web/. _site/
+          cp -r world _site/world
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

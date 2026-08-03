@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cronterra — the world that lives inside GitHub Actions</title>
+<meta name="description" content="A persistent living world whose only server is a GitHub Actions cron job. Watch it evolve, scrub through its history, bless it with an issue.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🌍</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="title-block">
+    <h1>🌍 Cronterra</h1>
+    <p class="tagline">A living world whose only server is a GitHub Actions cron job.<br>
+    Every hour, a workflow wakes it, life happens, and the result is committed. The git log <em>is</em> its history.</p>
+  </div>
+  <div class="hud" id="hud">
+    <div class="hud-item"><span class="hud-label">Age</span><span class="hud-value" id="hud-tick">—</span></div>
+    <div class="hud-item"><span class="hud-label">Season</span><span class="hud-value" id="hud-season">—</span></div>
+    <div class="hud-item"><span class="hud-label">Weather</span><span class="hud-value" id="hud-weather">—</span></div>
+    <div class="hud-item"><span class="hud-label">Murls</span><span class="hud-value" id="hud-murls">—</span></div>
+    <div class="hud-item"><span class="hud-label">Vyrn</span><span class="hud-value" id="hud-vyrns">—</span></div>
+    <div class="hud-item"><span class="hud-label">Moss</span><span class="hud-value" id="hud-flora">—</span></div>
+  </div>
+</header>
+
+<main>
+  <section class="world-panel">
+    <div class="canvas-frame">
+      <canvas id="world" width="960" height="640"></canvas>
+      <div id="live-badge" class="live-badge">● LIVE</div>
+    </div>
+    <div class="timeline">
+      <button id="btn-live" title="Jump to the present">NOW</button>
+      <input type="range" id="scrubber" min="0" max="0" value="0" step="1">
+      <span id="scrub-label" class="scrub-label">present</span>
+    </div>
+    <p class="timeline-hint">⏪ Drag to time-travel through the world’s hourly snapshots (up to one week back). The full history since genesis lives in the repo’s commit log.</p>
+  </section>
+
+  <aside class="side-panel">
+    <section class="card">
+      <h2>📜 The Chronicle</h2>
+      <p class="card-sub">The world writes its own history, one Actions run at a time.</p>
+      <div id="chronicle" class="chronicle"></div>
+      <a class="text-link" id="link-chronicle" href="#" target="_blank" rel="noopener">Read the full chronicle →</a>
+    </section>
+
+    <section class="card">
+      <h2>🏛️ Living Legends</h2>
+      <p class="card-sub">Named creatures currently alive.</p>
+      <ul id="legends" class="legends"></ul>
+    </section>
+
+    <section class="card">
+      <h2>🙏 Bless the world</h2>
+      <p class="card-sub">Open a GitHub issue and an Actions oracle will grant it on the next heartbeat, then answer you in the world’s own voice.</p>
+      <div class="bless-grid" id="bless-grid">
+        <a data-bless="rain"   class="bless" href="#" target="_blank" rel="noopener">☔ Rain</a>
+        <a data-bless="sun"    class="bless" href="#" target="_blank" rel="noopener">☀️ Sun</a>
+        <a data-bless="seeds"  class="bless" href="#" target="_blank" rel="noopener">🌾 Seeds</a>
+        <a data-bless="beasts" class="bless" href="#" target="_blank" rel="noopener">🦌 Beasts</a>
+        <a data-bless="aurora" class="bless" href="#" target="_blank" rel="noopener">🌌 Aurora</a>
+        <a data-bless="meteor" class="bless danger" href="#" target="_blank" rel="noopener">☄️ Meteor</a>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>⚙️ How this exists</h2>
+      <ul class="how">
+        <li><strong>Heartbeat:</strong> an hourly <code>schedule:</code> workflow runs the deterministic simulation and commits the new state.</li>
+        <li><strong>Database:</strong> none — the world state is JSON in the repo; its full history is the git log.</li>
+        <li><strong>API:</strong> none — GitHub Issues are the write path, GitHub Pages is the read path.</li>
+        <li><strong>Seed:</strong> a hash. Same seed, same universe, forever replayable.</li>
+      </ul>
+      <a class="text-link" id="link-repo" href="#" target="_blank" rel="noopener">View the source & the world’s commit timeline →</a>
+    </section>
+  </aside>
+</main>
+
+<footer>
+  <span id="footer-status">Loading world…</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
