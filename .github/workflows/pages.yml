@@ -6,7 +6,7 @@ name: 🗺️ Deploy Viewer
 
 on:
   push:
-    branches: [main]
+    branches: [main, master, claude/novel-github-actions-app-osj9gi]
   workflow_dispatch:
 
 concurrency:

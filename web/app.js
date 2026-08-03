@@ -218,7 +218,7 @@ function esc(s) {
 
 function wireLinks() {
   document.getElementById('link-repo').href = `https://github.com/${REPO}/commits`;
-  document.getElementById('link-chronicle').href = `https://github.com/${REPO}/blob/main/world/chronicle.md`;
+  document.getElementById('link-chronicle').href = `https://github.com/${REPO}/blob/HEAD/world/chronicle.md`;
   const bodies = {
     rain: 'I offer this issue so that rain may fall on Cronterra.',
     sun: 'I offer this issue so that the sun may shine on Cronterra.',
