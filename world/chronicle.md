@@ -8,3 +8,5 @@
 
 **Tick 00003** · Day 1 of Sprouting · ☔ Rainfall — Six young murls wandered in from beyond the edge of the map, sent by someone who cared.
 
+**Tick 00004** · Day 1 of Sprouting · 🌤️ Clear skies — A blessing of sun burned the sky clean. The moss stretched toward the warmth.
+
