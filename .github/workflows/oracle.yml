@@ -16,6 +16,7 @@ concurrency:
 permissions:
   contents: write
   issues: write
+  pages: write
 
 jobs:
   grant:
@@ -72,6 +73,13 @@ jobs:
             git pull --rebase
           done
           git push
+
+      - name: Ensure Pages is enabled
+        if: steps.parse.outputs.kind != 'unknown'
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+        continue-on-error: true
 
       - name: Stage site
         if: steps.parse.outputs.kind != 'unknown'

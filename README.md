@@ -37,7 +37,7 @@ The oracle workflow applies it on an immediate extra heartbeat, commits the cons
 
 ## Running it
 
-**One-time setup (repo admin):** Settings → Pages → Source: **GitHub Actions**. That's it — once this is merged to the default branch, the cron starts beating and the world comes alive at `https://<owner>.github.io/<repo>/`.
+**Setup:** none, ideally — the workflows try to enable GitHub Pages themselves (`actions/configure-pages` with `enablement: true`). If your org's policy blocks that, flip it once by hand: Settings → Pages → Source: **GitHub Actions**. With the workflows on the default branch, the cron starts beating and the world comes alive at `https://<owner>.github.io/<repo>/`.
 
 **Locally:**
 

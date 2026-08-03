@@ -27,6 +27,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Ensure Pages is enabled
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+        continue-on-error: true
+
       - name: Stage site
         run: |
           mkdir -p _site
