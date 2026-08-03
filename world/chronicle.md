@@ -10,3 +10,5 @@
 
 **Tick 00004** · Day 1 of Sprouting · 🌤️ Clear skies — A blessing of sun burned the sky clean. The moss stretched toward the warmth.
 
+**Tick 00006** · Day 1 of Sprouting · 🌌 Aurora — The sky was blessed with an aurora. Every creature stopped to watch. Even the vyrn.
+
