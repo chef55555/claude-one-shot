@@ -20,3 +20,5 @@
 
 **Tick 00013** · Day 1 of Sprouting · 🌤️ Clear skies — A blessing of sun burned the sky clean. The moss stretched toward the warmth.
 
+**Tick 00014** · Day 1 of Sprouting · 🌤️ Clear skies — A meteor screamed down over the drowned valley and left a scorched crater. 10 creature(s) never saw it coming.
+
