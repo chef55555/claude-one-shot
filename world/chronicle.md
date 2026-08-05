@@ -26,3 +26,5 @@
 
 **Tick 00024** · Day 2 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00028** · Day 2 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Hariawhisk the Elder.
+
