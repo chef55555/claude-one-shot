@@ -28,3 +28,5 @@
 
 **Tick 00028** · Day 2 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Hariawhisk the Elder.
 
+**Tick 00029** · Day 2 of Sprouting · ☔ Rainfall — Hariawhisk the Elder fell to a vyrn’s patience. The mossy lowlands will remember.
+
