@@ -34,3 +34,5 @@
 
 **Tick 00035** · Day 2 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Jorianock the Grazer.
 
+**Tick 00036** · Day 2 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
+
