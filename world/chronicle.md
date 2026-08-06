@@ -32,3 +32,5 @@
 
 **Tick 00032** · Day 2 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00035** · Day 2 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Jorianock the Grazer.
+
