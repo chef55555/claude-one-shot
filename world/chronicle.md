@@ -38,3 +38,5 @@
 
 **Tick 00043** · Day 2 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00045** · Day 2 of Sprouting · 🌤️ Clear skies — The murl herds now number two hundred strong — the greatest gathering the world has known.
+
