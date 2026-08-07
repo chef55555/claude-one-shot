@@ -40,3 +40,5 @@
 
 **Tick 00045** · Day 2 of Sprouting · 🌤️ Clear skies — The murl herds now number two hundred strong — the greatest gathering the world has known.
 
+**Tick 00053** · Day 3 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Yaregleam the Elder.
+
