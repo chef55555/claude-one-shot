@@ -54,3 +54,5 @@
 
 **Tick 00060** · Day 3 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Galeidros the Grazer.
 
+**Tick 00068** · Day 3 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Venoumek Longwhisker.
+
