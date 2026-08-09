@@ -58,3 +58,5 @@
 
 **Tick 00077** · Day 4 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
 
+**Tick 00083** · Day 4 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Braedusk the Patient.
+
