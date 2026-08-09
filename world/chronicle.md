@@ -68,3 +68,5 @@
 
 **Tick 00091** · Day 4 of Sprouting · 🌤️ Clear skies — Jorianock the Grazer fell to a vyrn’s patience. The western shallows will remember.
 
+**Tick 00093** · Day 4 of Sprouting · 🌤️ Clear skies — Yaregleam the Elder fell to a vyrn’s patience. The mossy lowlands will remember.
+
