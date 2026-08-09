@@ -62,3 +62,5 @@
 
 **Tick 00087** · Day 4 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Wrenathorn Moss-eater.
 
+**Tick 00088** · Day 4 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
