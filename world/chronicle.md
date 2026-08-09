@@ -56,3 +56,5 @@
 
 **Tick 00068** · Day 3 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Venoumek Longwhisker.
 
+**Tick 00077** · Day 4 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
+
