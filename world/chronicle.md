@@ -60,3 +60,5 @@
 
 **Tick 00083** · Day 4 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Braedusk the Patient.
 
+**Tick 00087** · Day 4 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Wrenathorn Moss-eater.
+
