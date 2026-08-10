@@ -80,3 +80,5 @@
 
 **Tick 00104** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Quilligorn Longwhisker.
 
+**Tick 00108** · Day 5 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
