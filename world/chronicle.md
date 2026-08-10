@@ -72,3 +72,5 @@
 
 **Tick 00096** · Day 5 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00097** · Day 5 of Sprouting · ☔ Rainfall — Lunupyre the Patient fell to a vyrn’s patience. The western shallows will remember.
+
