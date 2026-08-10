@@ -76,3 +76,5 @@
 
 **Tick 00098** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Ashaedros the Elder.
 
+**Tick 00100** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Tamaenock Dune-born.
+
