@@ -70,3 +70,5 @@
 
 **Tick 00093** · Day 4 of Sprouting · 🌤️ Clear skies — Yaregleam the Elder fell to a vyrn’s patience. The mossy lowlands will remember.
 
+**Tick 00096** · Day 5 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
