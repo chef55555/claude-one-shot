@@ -78,3 +78,5 @@
 
 **Tick 00100** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Tamaenock Dune-born.
 
+**Tick 00104** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Quilligorn Longwhisker.
+
