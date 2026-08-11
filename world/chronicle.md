@@ -86,3 +86,5 @@
 
 **Tick 00115** · Day 5 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00116** · Day 5 of Sprouting · ☔ Rainfall — Wrenathorn Moss-eater fell to a vyrn’s patience. The high crags will remember. Quilligorn Longwhisker fell to a vyrn’s patience. The mossy lowlands will remember.
+
