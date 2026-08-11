@@ -90,3 +90,5 @@
 
 **Tick 00118** · Day 5 of Sprouting · ☔ Rainfall — Ashaedros the Elder fell to a vyrn’s patience. The southern strand will remember.
 
+**Tick 00120** · Day 6 of Sprouting · ☔ Rainfall — Braedusk the Patient fell to a vyrn’s patience. The drowned valley will remember.
+
