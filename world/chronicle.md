@@ -88,3 +88,5 @@
 
 **Tick 00116** · Day 5 of Sprouting · ☔ Rainfall — Wrenathorn Moss-eater fell to a vyrn’s patience. The high crags will remember. Quilligorn Longwhisker fell to a vyrn’s patience. The mossy lowlands will remember.
 
+**Tick 00118** · Day 5 of Sprouting · ☔ Rainfall — Ashaedros the Elder fell to a vyrn’s patience. The southern strand will remember.
+
