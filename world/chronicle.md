@@ -82,3 +82,5 @@
 
 **Tick 00108** · Day 5 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00113** · Day 5 of Sprouting · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Luneimek the Silent.
+
