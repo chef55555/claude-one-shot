@@ -84,3 +84,5 @@
 
 **Tick 00113** · Day 5 of Sprouting · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Luneimek the Silent.
 
+**Tick 00115** · Day 5 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
