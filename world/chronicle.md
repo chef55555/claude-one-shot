@@ -94,3 +94,5 @@
 
 **Tick 00128** · Day 6 of Sprouting · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
 
+**Tick 00133** · Day 6 of Sprouting · ⛈️ Storm — Tamaenock Dune-born fell to a vyrn’s patience. The eastern dunes will remember.
+
