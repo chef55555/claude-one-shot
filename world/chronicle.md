@@ -92,3 +92,5 @@
 
 **Tick 00120** · Day 6 of Sprouting · ☔ Rainfall — Braedusk the Patient fell to a vyrn’s patience. The drowned valley will remember.
 
+**Tick 00128** · Day 6 of Sprouting · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
+
