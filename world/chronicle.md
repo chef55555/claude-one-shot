@@ -98,3 +98,5 @@
 
 **Tick 00144** · Day 7 of Sprouting · ⛈️ Storm — The other murls began to follow one of their own — the one now called Moripyre Swift-hoof.
 
+**Tick 00145** · Day 7 of Sprouting · ⛈️ Storm — The other murls began to follow one of their own — the one now called Nimuhoof the Gentle.
+
