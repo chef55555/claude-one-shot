@@ -96,3 +96,5 @@
 
 **Tick 00133** · Day 6 of Sprouting · ⛈️ Storm — Tamaenock Dune-born fell to a vyrn’s patience. The eastern dunes will remember.
 
+**Tick 00144** · Day 7 of Sprouting · ⛈️ Storm — The other murls began to follow one of their own — the one now called Moripyre Swift-hoof.
+
