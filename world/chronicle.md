@@ -100,3 +100,5 @@
 
 **Tick 00145** · Day 7 of Sprouting · ⛈️ Storm — The other murls began to follow one of their own — the one now called Nimuhoof the Gentle.
 
+**Tick 00150** · Day 7 of Sprouting · ⛈️ Storm — Venoumek Longwhisker fell to a vyrn’s patience. The drowned valley will remember.
+
