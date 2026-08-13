@@ -104,3 +104,5 @@
 
 **Tick 00152** · Day 7 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00153** · Day 7 of Sprouting · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Harudros Sharp-eye.
+
