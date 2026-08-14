@@ -106,3 +106,5 @@
 
 **Tick 00153** · Day 7 of Sprouting · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Harudros Sharp-eye.
 
+**Tick 00159** · Day 7 of Sprouting · 🌤️ Clear skies — Moripyre Swift-hoof fell to a vyrn’s patience. The high crags will remember.
+
