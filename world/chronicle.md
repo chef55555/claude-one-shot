@@ -110,3 +110,5 @@
 
 **Tick 00165** · Day 7 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Quilluvane the Grazer.
 
+**Tick 00168** · Day 1 of Deep Summer · 🌫️ Fog — The other vyrns began to follow one of their own — the one now called Feniareed Night-glider. ☀️ The season turned. Deep Summer settled over Cronterra.
+
