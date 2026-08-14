@@ -112,3 +112,5 @@
 
 **Tick 00168** · Day 1 of Deep Summer · 🌫️ Fog — The other vyrns began to follow one of their own — the one now called Feniareed Night-glider. ☀️ The season turned. Deep Summer settled over Cronterra.
 
+**Tick 00169** · Day 1 of Deep Summer · 🌵 Drought — The air went dry and mean. A drought settled over the land.
+
