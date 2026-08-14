@@ -108,3 +108,5 @@
 
 **Tick 00159** · Day 7 of Sprouting · 🌤️ Clear skies — Moripyre Swift-hoof fell to a vyrn’s patience. The high crags will remember.
 
+**Tick 00165** · Day 7 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Quilluvane the Grazer.
+
