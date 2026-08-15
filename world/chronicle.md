@@ -118,3 +118,5 @@
 
 **Tick 00178** · Day 1 of Deep Summer · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Yareroot the Old Terror.
 
+**Tick 00179** · Day 1 of Deep Summer · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Thaladusk Dune-born.
+
