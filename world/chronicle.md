@@ -114,3 +114,5 @@
 
 **Tick 00169** · Day 1 of Deep Summer · 🌵 Drought — The air went dry and mean. A drought settled over the land.
 
+**Tick 00173** · Day 1 of Deep Summer · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
