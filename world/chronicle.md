@@ -116,3 +116,5 @@
 
 **Tick 00173** · Day 1 of Deep Summer · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00178** · Day 1 of Deep Summer · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Yareroot the Old Terror.
+
