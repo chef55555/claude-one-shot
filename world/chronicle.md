@@ -126,3 +126,5 @@
 
 **Tick 00200** · Day 2 of Deep Summer · ☔ Rainfall — Thaladusk Dune-born fell to a vyrn’s patience. The western shallows will remember.
 
+**Tick 00201** · Day 2 of Deep Summer · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Joraegleam the Silent.
+
