@@ -124,3 +124,5 @@
 
 **Tick 00197** · Day 2 of Deep Summer · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00200** · Day 2 of Deep Summer · ☔ Rainfall — Thaladusk Dune-born fell to a vyrn’s patience. The western shallows will remember.
+
