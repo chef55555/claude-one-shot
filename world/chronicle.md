@@ -122,3 +122,5 @@
 
 **Tick 00191** · Day 1 of Deep Summer · 🌤️ Clear skies — Quilluvane the Grazer fell to a vyrn’s patience. The drowned valley will remember. The other vyrns began to follow one of their own — the one now called Hariashard of the High Rocks.
 
+**Tick 00197** · Day 2 of Deep Summer · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
