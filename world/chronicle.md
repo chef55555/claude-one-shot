@@ -128,3 +128,5 @@
 
 **Tick 00201** · Day 2 of Deep Summer · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Joraegleam the Silent.
 
+**Tick 00203** · Day 2 of Deep Summer · ☔ Rainfall — Nimuhoof the Gentle fell to a vyrn’s patience. The southern strand will remember.
+
