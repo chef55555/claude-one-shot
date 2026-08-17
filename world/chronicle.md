@@ -132,3 +132,5 @@
 
 **Tick 00208** · Day 2 of Deep Summer · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Joreiroot Sharp-eye.
 
+**Tick 00232** · Day 3 of Deep Summer · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
