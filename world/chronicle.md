@@ -134,3 +134,5 @@
 
 **Tick 00232** · Day 3 of Deep Summer · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00233** · Day 3 of Deep Summer · ☔ Rainfall — Feniareed Night-glider starved when the moss ran thin. The northern reach will remember.
+
