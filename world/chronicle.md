@@ -144,3 +144,5 @@
 
 **Tick 00242** · Day 4 of Deep Summer · 🌵 Drought — The air went dry and mean. A drought settled over the land. The other vyrns began to follow one of their own — the one now called Rookeishard the Lean.
 
+**Tick 00250** · Day 4 of Deep Summer · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
