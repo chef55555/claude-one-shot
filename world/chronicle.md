@@ -170,3 +170,5 @@
 
 **Tick 00318** · Day 7 of Deep Summer · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands. Yareroot the Old Terror starved when the moss ran thin. The eastern dunes will remember.
 
+**Tick 00319** · Day 7 of Deep Summer · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Nimugorn Red-crest.
+
