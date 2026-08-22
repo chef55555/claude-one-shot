@@ -190,3 +190,5 @@
 
 **Tick 00340** · Day 1 of Emberfall · 🌵 Drought — The air went dry and mean. A drought settled over the land.
 
+**Tick 00343** · Day 1 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss. Venathorn the Hunter starved when the moss ran thin. The mossy lowlands will remember. The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
+
