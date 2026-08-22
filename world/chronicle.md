@@ -182,3 +182,5 @@
 
 **Tick 00331** · Day 7 of Deep Summer · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
 
+**Tick 00332** · Day 7 of Deep Summer · ⛈️ Storm — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
+
