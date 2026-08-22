@@ -188,3 +188,5 @@
 
 **Tick 00338** · Day 1 of Emberfall · ⛈️ Storm — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
 
+**Tick 00340** · Day 1 of Emberfall · 🌵 Drought — The air went dry and mean. A drought settled over the land.
+
