@@ -176,3 +176,5 @@
 
 **Tick 00321** · Day 7 of Deep Summer · 🌤️ Clear skies — Harudros Sharp-eye starved when the moss ran thin. The western shallows will remember.
 
+**Tick 00324** · Day 7 of Deep Summer · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Venathorn the Hunter.
+
