@@ -198,3 +198,5 @@
 
 **Tick 00354** · Day 1 of Emberfall · 🌤️ Clear skies — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
 
+**Tick 00360** · Day 2 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
