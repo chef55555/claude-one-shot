@@ -202,3 +202,5 @@
 
 **Tick 00362** · Day 2 of Emberfall · ☔ Rainfall — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty. The other vyrns began to follow one of their own — the one now called Galumoss Red-crest.
 
+**Tick 00368** · Day 2 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
