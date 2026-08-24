@@ -208,3 +208,5 @@
 
 **Tick 00372** · Day 2 of Emberfall · ☔ Rainfall — Luneimek the Silent starved when the moss ran thin. The drowned valley will remember.
 
+**Tick 00374** · Day 2 of Emberfall · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
