@@ -204,3 +204,5 @@
 
 **Tick 00368** · Day 2 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00371** · Day 2 of Emberfall · ☔ Rainfall — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
+
