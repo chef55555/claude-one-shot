@@ -212,3 +212,5 @@
 
 **Tick 00375** · Day 2 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Galureed the Relentless.
 
+**Tick 00378** · Day 2 of Emberfall · 🌤️ Clear skies — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
+
