@@ -218,3 +218,5 @@
 
 **Tick 00386** · Day 3 of Emberfall · ⛈️ Storm — Rookeishard the Lean starved when the moss ran thin. The glimmer coast will remember. The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
 
+**Tick 00388** · Day 3 of Emberfall · ⛈️ Storm — The other vyrns began to follow one of their own — the one now called Quillugleam the Lean.
+
