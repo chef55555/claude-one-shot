@@ -210,3 +210,5 @@
 
 **Tick 00374** · Day 2 of Emberfall · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00375** · Day 2 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Galureed the Relentless.
+
