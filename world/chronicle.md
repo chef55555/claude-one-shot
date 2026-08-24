@@ -214,3 +214,5 @@
 
 **Tick 00378** · Day 2 of Emberfall · 🌤️ Clear skies — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
 
+**Tick 00381** · Day 2 of Emberfall · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
+
