@@ -222,3 +222,5 @@
 
 **Tick 00389** · Day 3 of Emberfall · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
 
+**Tick 00399** · Day 3 of Emberfall · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
