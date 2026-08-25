@@ -220,3 +220,5 @@
 
 **Tick 00388** · Day 3 of Emberfall · ⛈️ Storm — The other vyrns began to follow one of their own — the one now called Quillugleam the Lean.
 
+**Tick 00389** · Day 3 of Emberfall · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
+
