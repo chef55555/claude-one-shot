@@ -234,3 +234,5 @@
 
 **Tick 00418** · Day 4 of Emberfall · ☔ Rainfall — Nimugorn Red-crest starved when the moss ran thin. The mossy lowlands will remember.
 
+**Tick 00422** · Day 4 of Emberfall · 🌵 Drought — The other vyrns began to follow one of their own — the one now called Venalisk the Relentless.
+
