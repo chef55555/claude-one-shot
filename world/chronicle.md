@@ -224,3 +224,5 @@
 
 **Tick 00399** · Day 3 of Emberfall · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00410** · Day 4 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
