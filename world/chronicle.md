@@ -232,3 +232,5 @@
 
 **Tick 00417** · Day 4 of Emberfall · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Dunothorn Sharp-eye.
 
+**Tick 00418** · Day 4 of Emberfall · ☔ Rainfall — Nimugorn Red-crest starved when the moss ran thin. The mossy lowlands will remember.
+
