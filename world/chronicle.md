@@ -226,3 +226,5 @@
 
 **Tick 00410** · Day 4 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00413** · Day 4 of Emberfall · ☔ Rainfall — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
+
