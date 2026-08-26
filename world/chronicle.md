@@ -230,3 +230,5 @@
 
 **Tick 00414** · Day 4 of Emberfall · ☔ Rainfall — Joraegleam the Silent starved when the moss ran thin. The eastern dunes will remember.
 
+**Tick 00417** · Day 4 of Emberfall · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Dunothorn Sharp-eye.
+
