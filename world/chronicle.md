@@ -236,3 +236,5 @@
 
 **Tick 00422** · Day 4 of Emberfall · 🌵 Drought — The other vyrns began to follow one of their own — the one now called Venalisk the Relentless.
 
+**Tick 00427** · Day 4 of Emberfall · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
+
