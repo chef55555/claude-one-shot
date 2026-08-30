@@ -238,3 +238,5 @@
 
 **Tick 00427** · Day 4 of Emberfall · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
 
+**Tick 00436** · Day 5 of Emberfall · 🌤️ Clear skies — The murls had all but vanished — then a small herd wandered in from beyond the fog, as if the world refused to be empty.
+
