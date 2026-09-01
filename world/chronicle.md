@@ -242,3 +242,5 @@
 
 **Tick 00438** · Day 5 of Emberfall · 🌤️ Clear skies — Hariashard of the High Rocks starved when the moss ran thin. The glimmer coast will remember.
 
+**Tick 00446** · Day 5 of Emberfall · 🌤️ Clear skies — Joreiroot Sharp-eye starved when the moss ran thin. The drowned valley will remember.
+
