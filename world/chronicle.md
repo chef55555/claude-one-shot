@@ -244,3 +244,5 @@
 
 **Tick 00446** · Day 5 of Emberfall · 🌤️ Clear skies — Joreiroot Sharp-eye starved when the moss ran thin. The drowned valley will remember.
 
+**Tick 00448** · Day 5 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Moreitarn of the High Rocks.
+
