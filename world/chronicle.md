@@ -246,3 +246,5 @@
 
 **Tick 00448** · Day 5 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Moreitarn of the High Rocks.
 
+**Tick 00456** · Day 6 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Oreigleam Night-glider.
+
