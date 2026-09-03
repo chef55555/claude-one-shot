@@ -248,3 +248,5 @@
 
 **Tick 00456** · Day 6 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Oreigleam Night-glider.
 
+**Tick 00457** · Day 6 of Emberfall · 🌤️ Clear skies — Quillugleam the Lean starved when the moss ran thin. The drowned valley will remember.
+
