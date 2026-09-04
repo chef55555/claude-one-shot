@@ -250,3 +250,5 @@
 
 **Tick 00457** · Day 6 of Emberfall · 🌤️ Clear skies — Quillugleam the Lean starved when the moss ran thin. The drowned valley will remember.
 
+**Tick 00462** · Day 6 of Emberfall · 🌤️ Clear skies — Oreigleam Night-glider starved when the moss ran thin. The high crags will remember.
+
