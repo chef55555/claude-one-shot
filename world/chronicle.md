@@ -252,3 +252,5 @@
 
 **Tick 00462** · Day 6 of Emberfall · 🌤️ Clear skies — Oreigleam Night-glider starved when the moss ran thin. The high crags will remember.
 
+**Tick 00466** · Day 6 of Emberfall · 🌤️ Clear skies — Moreitarn of the High Rocks starved when the moss ran thin. The eastern dunes will remember.
+
