@@ -258,3 +258,5 @@
 
 **Tick 00472** · Day 6 of Emberfall · 🌤️ Clear skies — Galureed the Relentless died old and full of years, aged 421 ticks. The eastern dunes will remember. Dunothorn Sharp-eye starved when the moss ran thin. The high crags will remember.
 
+**Tick 00473** · Day 6 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Quillefell the Relentless.
+
