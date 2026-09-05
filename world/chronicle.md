@@ -254,3 +254,5 @@
 
 **Tick 00466** · Day 6 of Emberfall · 🌤️ Clear skies — Moreitarn of the High Rocks starved when the moss ran thin. The eastern dunes will remember.
 
+**Tick 00468** · Day 6 of Emberfall · 🌤️ Clear skies — Galumoss Red-crest died old and full of years, aged 421 ticks. The southern strand will remember.
+
