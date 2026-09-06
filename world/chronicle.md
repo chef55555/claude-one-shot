@@ -262,3 +262,5 @@
 
 **Tick 00479** · Day 6 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00481** · Day 7 of Emberfall · ☔ Rainfall — Venalisk the Relentless starved when the moss ran thin. The western shallows will remember.
+
