@@ -260,3 +260,5 @@
 
 **Tick 00473** · Day 6 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Quillefell the Relentless.
 
+**Tick 00479** · Day 6 of Emberfall · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
