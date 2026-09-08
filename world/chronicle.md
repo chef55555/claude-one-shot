@@ -264,3 +264,5 @@
 
 **Tick 00481** · Day 7 of Emberfall · ☔ Rainfall — Venalisk the Relentless starved when the moss ran thin. The western shallows will remember.
 
+**Tick 00488** · Day 7 of Emberfall · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Thalifell Sharp-eye.
+
