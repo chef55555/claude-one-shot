@@ -266,3 +266,5 @@
 
 **Tick 00488** · Day 7 of Emberfall · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Thalifell Sharp-eye.
 
+**Tick 00495** · Day 7 of Emberfall · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
