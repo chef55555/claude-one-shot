@@ -268,3 +268,5 @@
 
 **Tick 00495** · Day 7 of Emberfall · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00501** · Day 7 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Thaliagorn of the High Rocks.
+
