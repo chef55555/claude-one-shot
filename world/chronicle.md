@@ -272,3 +272,5 @@
 
 **Tick 00504** · Day 1 of Hushwinter · ☔ Rainfall — ❄️ The season turned. Hushwinter settled over Cronterra.
 
+**Tick 00505** · Day 1 of Hushwinter · ☔ Rainfall — Quillefell the Relentless starved when the moss ran thin. The northern reach will remember.
+
