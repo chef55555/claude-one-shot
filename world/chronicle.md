@@ -270,3 +270,5 @@
 
 **Tick 00501** · Day 7 of Emberfall · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Thaliagorn of the High Rocks.
 
+**Tick 00504** · Day 1 of Hushwinter · ☔ Rainfall — ❄️ The season turned. Hushwinter settled over Cronterra.
+
