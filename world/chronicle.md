@@ -278,3 +278,5 @@
 
 **Tick 00514** · Day 1 of Hushwinter · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Thalaefell the Relentless.
 
+**Tick 00516** · Day 1 of Hushwinter · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
+
