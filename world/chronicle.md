@@ -274,3 +274,5 @@
 
 **Tick 00505** · Day 1 of Hushwinter · ☔ Rainfall — Quillefell the Relentless starved when the moss ran thin. The northern reach will remember.
 
+**Tick 00512** · Day 1 of Hushwinter · ☔ Rainfall — Thaliagorn of the High Rocks starved when the moss ran thin. The glimmer coast will remember.
+
