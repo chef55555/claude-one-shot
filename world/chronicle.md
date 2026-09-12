@@ -276,3 +276,5 @@
 
 **Tick 00512** · Day 1 of Hushwinter · ☔ Rainfall — Thaliagorn of the High Rocks starved when the moss ran thin. The glimmer coast will remember.
 
+**Tick 00514** · Day 1 of Hushwinter · 🌤️ Clear skies — The other vyrns began to follow one of their own — the one now called Thalaefell the Relentless.
+
