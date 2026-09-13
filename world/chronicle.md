@@ -280,3 +280,5 @@
 
 **Tick 00516** · Day 1 of Hushwinter · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
 
+**Tick 00521** · Day 1 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
+
