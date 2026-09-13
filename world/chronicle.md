@@ -282,3 +282,5 @@
 
 **Tick 00521** · Day 1 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
 
+**Tick 00522** · Day 1 of Hushwinter · 🌨️ Snowfall — Thalifell Sharp-eye starved when the moss ran thin. The drowned valley will remember. The other vyrns began to follow one of their own — the one now called Wrenureed Red-crest.
+
