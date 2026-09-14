@@ -284,3 +284,5 @@
 
 **Tick 00522** · Day 1 of Hushwinter · 🌨️ Snowfall — Thalifell Sharp-eye starved when the moss ran thin. The drowned valley will remember. The other vyrns began to follow one of their own — the one now called Wrenureed Red-crest.
 
+**Tick 00527** · Day 1 of Hushwinter · 🌨️ Snowfall — The murl herds now number two hundred strong — the greatest gathering the world has known.
+
