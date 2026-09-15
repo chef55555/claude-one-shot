@@ -286,3 +286,5 @@
 
 **Tick 00527** · Day 1 of Hushwinter · 🌨️ Snowfall — The murl herds now number two hundred strong — the greatest gathering the world has known.
 
+**Tick 00530** · Day 2 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Ilmagleam of the Shallows.
+
