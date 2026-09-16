@@ -288,3 +288,5 @@
 
 **Tick 00530** · Day 2 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Ilmagleam of the Shallows.
 
+**Tick 00537** · Day 2 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Ilmitarn the Wanderer.
+
