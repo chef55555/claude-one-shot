@@ -290,3 +290,5 @@
 
 **Tick 00537** · Day 2 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Ilmitarn the Wanderer.
 
+**Tick 00541** · Day 2 of Hushwinter · 🌨️ Snowfall — Thalaefell the Relentless starved when the moss ran thin. The glimmer coast will remember.
+
