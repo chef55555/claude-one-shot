@@ -294,3 +294,5 @@
 
 **Tick 00546** · Day 2 of Hushwinter · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands. Ilmitarn the Wanderer starved when the moss ran thin. The western shallows will remember.
 
+**Tick 00548** · Day 2 of Hushwinter · 🌤️ Clear skies — Wrenureed Red-crest starved when the moss ran thin. The mossy lowlands will remember.
+
