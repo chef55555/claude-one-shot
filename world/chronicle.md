@@ -296,3 +296,5 @@
 
 **Tick 00548** · Day 2 of Hushwinter · 🌤️ Clear skies — Wrenureed Red-crest starved when the moss ran thin. The mossy lowlands will remember.
 
+**Tick 00551** · Day 2 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
+
