@@ -300,3 +300,5 @@
 
 **Tick 00556** · Day 3 of Hushwinter · 🌨️ Snowfall — With the herds grown fat and fearless, new vyrn slipped ashore in the night. Balance, of a kind.
 
+**Tick 00557** · Day 3 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Dunuroot of the Shallows.
+
