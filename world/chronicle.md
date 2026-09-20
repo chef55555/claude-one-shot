@@ -298,3 +298,5 @@
 
 **Tick 00551** · Day 2 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
 
+**Tick 00556** · Day 3 of Hushwinter · 🌨️ Snowfall — With the herds grown fat and fearless, new vyrn slipped ashore in the night. Balance, of a kind.
+
