@@ -302,3 +302,5 @@
 
 **Tick 00557** · Day 3 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Dunuroot of the Shallows.
 
+**Tick 00574** · Day 3 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
+
