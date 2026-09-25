@@ -306,3 +306,5 @@
 
 **Tick 00583** · Day 4 of Hushwinter · 🌨️ Snowfall — Ilmagleam of the Shallows fell to a vyrn’s patience. The glimmer coast will remember.
 
+**Tick 00585** · Day 4 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Moruroot Longwhisker.
+
