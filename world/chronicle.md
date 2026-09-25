@@ -304,3 +304,5 @@
 
 **Tick 00574** · Day 3 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
 
+**Tick 00583** · Day 4 of Hushwinter · 🌨️ Snowfall — Ilmagleam of the Shallows fell to a vyrn’s patience. The glimmer coast will remember.
+
