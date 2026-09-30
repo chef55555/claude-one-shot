@@ -310,3 +310,5 @@
 
 **Tick 00598** · Day 4 of Hushwinter · 🌤️ Clear skies — Dunuroot of the Shallows starved when the moss ran thin. The eastern dunes will remember.
 
+**Tick 00607** · Day 5 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Eldiashard the Wanderer.
+
