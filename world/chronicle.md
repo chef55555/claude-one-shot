@@ -312,3 +312,5 @@
 
 **Tick 00607** · Day 5 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Eldiashard the Wanderer.
 
+**Tick 00614** · Day 5 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Quilliafell Dune-born.
+
