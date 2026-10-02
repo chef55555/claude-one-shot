@@ -314,3 +314,5 @@
 
 **Tick 00614** · Day 5 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Quilliafell Dune-born.
 
+**Tick 00616** · Day 5 of Hushwinter · 🌨️ Snowfall — Moruroot Longwhisker starved when the moss ran thin. The glimmer coast will remember.
+
