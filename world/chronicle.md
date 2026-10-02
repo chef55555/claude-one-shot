@@ -316,3 +316,5 @@
 
 **Tick 00616** · Day 5 of Hushwinter · 🌨️ Snowfall — Moruroot Longwhisker starved when the moss ran thin. The glimmer coast will remember.
 
+**Tick 00617** · Day 5 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Wrenuhoof the Wanderer.
+
