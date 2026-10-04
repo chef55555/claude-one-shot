@@ -322,3 +322,5 @@
 
 **Tick 00627** · Day 6 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Thaloudros the Grazer.
 
+**Tick 00629** · Day 6 of Hushwinter · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
+
