@@ -320,3 +320,5 @@
 
 **Tick 00619** · Day 5 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Venorin Swift-hoof.
 
+**Tick 00627** · Day 6 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Thaloudros the Grazer.
+
