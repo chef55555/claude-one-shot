@@ -326,3 +326,5 @@
 
 **Tick 00637** · Day 6 of Hushwinter · ⛈️ Storm — Thaloudros the Grazer starved when the moss ran thin. The high crags will remember. The other murls began to follow one of their own — the one now called Quilleimek the Elder.
 
+**Tick 00638** · Day 6 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
+
