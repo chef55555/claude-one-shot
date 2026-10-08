@@ -330,3 +330,5 @@
 
 **Tick 00642** · Day 6 of Hushwinter · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00644** · Day 6 of Hushwinter · 🌤️ Clear skies — Quilliafell Dune-born starved when the moss ran thin. The mossy lowlands will remember.
+
