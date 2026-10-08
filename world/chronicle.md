@@ -328,3 +328,5 @@
 
 **Tick 00638** · Day 6 of Hushwinter · 🌨️ Snowfall — Snow began to fall, slow and absolute, hushing the whole world.
 
+**Tick 00642** · Day 6 of Hushwinter · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
