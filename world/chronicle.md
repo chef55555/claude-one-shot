@@ -334,3 +334,5 @@
 
 **Tick 00647** · Day 6 of Hushwinter · 🌨️ Snowfall — The other murls began to follow one of their own — the one now called Eldodusk the Gentle.
 
+**Tick 00655** · Day 7 of Hushwinter · 🌨️ Snowfall — Quilleimek the Elder starved when the moss ran thin. The mossy lowlands will remember.
+
