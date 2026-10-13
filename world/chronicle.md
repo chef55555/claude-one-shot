@@ -338,3 +338,5 @@
 
 **Tick 00659** · Day 7 of Hushwinter · 🌤️ Clear skies — Wrenuhoof the Wanderer fell to a vyrn’s patience. The mossy lowlands will remember.
 
+**Tick 00662** · Day 7 of Hushwinter · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Galiafell Moss-eater.
+
