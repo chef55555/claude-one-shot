@@ -340,3 +340,5 @@
 
 **Tick 00662** · Day 7 of Hushwinter · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Galiafell Moss-eater.
 
+**Tick 00668** · Day 7 of Hushwinter · 🌤️ Clear skies — Eldodusk the Gentle starved when the moss ran thin. The mossy lowlands will remember.
+
