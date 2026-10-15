@@ -342,3 +342,5 @@
 
 **Tick 00668** · Day 7 of Hushwinter · 🌤️ Clear skies — Eldodusk the Gentle starved when the moss ran thin. The mossy lowlands will remember.
 
+**Tick 00672** · Day 1 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Nimeibrook the Grazer. 🌱 The season turned. Sprouting settled over Cronterra.
+
