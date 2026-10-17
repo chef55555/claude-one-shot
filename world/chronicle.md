@@ -348,3 +348,5 @@
 
 **Tick 00684** · Day 1 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Thaletarn the Grazer.
 
+**Tick 00686** · Day 1 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Yarotarn Moss-eater.
+
