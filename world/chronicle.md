@@ -344,3 +344,5 @@
 
 **Tick 00672** · Day 1 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Nimeibrook the Grazer. 🌱 The season turned. Sprouting settled over Cronterra.
 
+**Tick 00682** · Day 1 of Sprouting · 🌤️ Clear skies — Eldiashard the Wanderer starved when the moss ran thin. The western shallows will remember.
+
