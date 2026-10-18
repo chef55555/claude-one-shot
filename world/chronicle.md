@@ -350,3 +350,5 @@
 
 **Tick 00686** · Day 1 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Yarotarn Moss-eater.
 
+**Tick 00690** · Day 1 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
