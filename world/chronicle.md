@@ -354,3 +354,5 @@
 
 **Tick 00691** · Day 1 of Sprouting · ☔ Rainfall — Nimeibrook the Grazer fell to a vyrn’s patience. The southern strand will remember.
 
+**Tick 00703** · Day 2 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
+
