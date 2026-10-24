@@ -362,3 +362,5 @@
 
 **Tick 00723** · Day 3 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Fenaeroot the Elder.
 
+**Tick 00725** · Day 3 of Sprouting · 🌤️ Clear skies — Thaletarn the Grazer fell to a vyrn’s patience. The glimmer coast will remember. The other murls began to follow one of their own — the one now called Orahoof the Patient.
+
