@@ -360,3 +360,5 @@
 
 **Tick 00720** · Day 3 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Ashureed the Patient.
 
+**Tick 00723** · Day 3 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Fenaeroot the Elder.
+
