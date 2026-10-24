@@ -358,3 +358,5 @@
 
 **Tick 00713** · Day 2 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands. The other murls began to follow one of their own — the one now called Lunowhisk the Gentle.
 
+**Tick 00720** · Day 3 of Sprouting · 🌤️ Clear skies — The other murls began to follow one of their own — the one now called Ashureed the Patient.
+
