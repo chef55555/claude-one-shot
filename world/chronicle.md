@@ -366,3 +366,5 @@
 
 **Tick 00734** · Day 3 of Sprouting · 🌤️ Clear skies — Venorin Swift-hoof died old and full of years, aged 261 ticks. The southern strand will remember.
 
+**Tick 00736** · Day 3 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
