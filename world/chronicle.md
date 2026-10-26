@@ -364,3 +364,5 @@
 
 **Tick 00725** · Day 3 of Sprouting · 🌤️ Clear skies — Thaletarn the Grazer fell to a vyrn’s patience. The glimmer coast will remember. The other murls began to follow one of their own — the one now called Orahoof the Patient.
 
+**Tick 00734** · Day 3 of Sprouting · 🌤️ Clear skies — Venorin Swift-hoof died old and full of years, aged 261 ticks. The southern strand will remember.
+
