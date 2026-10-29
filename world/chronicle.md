@@ -368,3 +368,5 @@
 
 **Tick 00736** · Day 3 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00745** · Day 4 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Ilmeifell Moss-eater.
+
