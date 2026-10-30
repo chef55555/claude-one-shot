@@ -370,3 +370,5 @@
 
 **Tick 00745** · Day 4 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Ilmeifell Moss-eater.
 
+**Tick 00752** · Day 4 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself. Galiafell Moss-eater died old and full of years, aged 261 ticks. The glimmer coast will remember.
+
