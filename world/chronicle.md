@@ -372,3 +372,5 @@
 
 **Tick 00752** · Day 4 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself. Galiafell Moss-eater died old and full of years, aged 261 ticks. The glimmer coast will remember.
 
+**Tick 00757** · Day 4 of Sprouting · 🌫️ Fog — Yarotarn Moss-eater died old and full of years, aged 261 ticks. The mossy lowlands will remember.
+
