@@ -378,3 +378,5 @@
 
 **Tick 00764** · Day 4 of Sprouting · 🌫️ Fog — Lunowhisk the Gentle died old and full of years, aged 261 ticks. The drowned valley will remember.
 
+**Tick 00765** · Day 4 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss. Ashureed the Patient died old and full of years, aged 261 ticks. The eastern dunes will remember.
+
