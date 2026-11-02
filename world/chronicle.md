@@ -376,3 +376,5 @@
 
 **Tick 00760** · Day 4 of Sprouting · 🌫️ Fog — The other murls began to follow one of their own — the one now called Quillitarn Dune-born.
 
+**Tick 00764** · Day 4 of Sprouting · 🌫️ Fog — Lunowhisk the Gentle died old and full of years, aged 261 ticks. The drowned valley will remember.
+
