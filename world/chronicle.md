@@ -380,3 +380,5 @@
 
 **Tick 00765** · Day 4 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss. Ashureed the Patient died old and full of years, aged 261 ticks. The eastern dunes will remember.
 
+**Tick 00766** · Day 4 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Kelamek Swift-hoof.
+
