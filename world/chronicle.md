@@ -382,3 +382,5 @@
 
 **Tick 00766** · Day 4 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Kelamek Swift-hoof.
 
+**Tick 00768** · Day 5 of Sprouting · ☔ Rainfall — Fenaeroot the Elder died old and full of years, aged 261 ticks. The mossy lowlands will remember.
+
