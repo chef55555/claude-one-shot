@@ -386,3 +386,5 @@
 
 **Tick 00769** · Day 5 of Sprouting · ☔ Rainfall — Orahoof the Patient died old and full of years, aged 261 ticks. The drowned valley will remember.
 
+**Tick 00770** · Day 5 of Sprouting · ☔ Rainfall — Ilmeifell Moss-eater died old and full of years, aged 261 ticks. The eastern dunes will remember.
+
