@@ -384,3 +384,5 @@
 
 **Tick 00768** · Day 5 of Sprouting · ☔ Rainfall — Fenaeroot the Elder died old and full of years, aged 261 ticks. The mossy lowlands will remember.
 
+**Tick 00769** · Day 5 of Sprouting · ☔ Rainfall — Orahoof the Patient died old and full of years, aged 261 ticks. The drowned valley will remember.
+
