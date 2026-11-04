@@ -388,3 +388,5 @@
 
 **Tick 00770** · Day 5 of Sprouting · ☔ Rainfall — Ilmeifell Moss-eater died old and full of years, aged 261 ticks. The eastern dunes will remember.
 
+**Tick 00771** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Yarigorn the Patient.
+
