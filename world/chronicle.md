@@ -392,3 +392,5 @@
 
 **Tick 00773** · Day 5 of Sprouting · ☔ Rainfall — Quillitarn Dune-born died old and full of years, aged 261 ticks. The mossy lowlands will remember.
 
+**Tick 00774** · Day 5 of Sprouting · ☔ Rainfall — Kelamek Swift-hoof died old and full of years, aged 261 ticks. The mossy lowlands will remember.
+
