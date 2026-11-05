@@ -390,3 +390,5 @@
 
 **Tick 00771** · Day 5 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Yarigorn the Patient.
 
+**Tick 00773** · Day 5 of Sprouting · ☔ Rainfall — Quillitarn Dune-born died old and full of years, aged 261 ticks. The mossy lowlands will remember.
+
