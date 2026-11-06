@@ -394,3 +394,5 @@
 
 **Tick 00774** · Day 5 of Sprouting · ☔ Rainfall — Kelamek Swift-hoof died old and full of years, aged 261 ticks. The mossy lowlands will remember.
 
+**Tick 00778** · Day 5 of Sprouting · ☔ Rainfall — Yarigorn the Patient died old and full of years, aged 261 ticks. The mossy lowlands will remember.
+
