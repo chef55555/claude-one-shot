@@ -396,3 +396,5 @@
 
 **Tick 00778** · Day 5 of Sprouting · ☔ Rainfall — Yarigorn the Patient died old and full of years, aged 261 ticks. The mossy lowlands will remember.
 
+**Tick 00781** · Day 5 of Sprouting · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
+
