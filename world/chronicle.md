@@ -398,3 +398,5 @@
 
 **Tick 00781** · Day 5 of Sprouting · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
 
+**Tick 00785** · Day 5 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
+
