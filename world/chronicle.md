@@ -400,3 +400,5 @@
 
 **Tick 00785** · Day 5 of Sprouting · 🌫️ Fog — Fog crept up from the shallows until the world was a rumor of itself.
 
+**Tick 00794** · Day 6 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
+
