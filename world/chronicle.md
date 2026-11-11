@@ -402,3 +402,5 @@
 
 **Tick 00794** · Day 6 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss.
 
+**Tick 00797** · Day 6 of Sprouting · ⛈️ Storm — A storm rolled in off the water. The murls huddled in the lee of the crags.
+
