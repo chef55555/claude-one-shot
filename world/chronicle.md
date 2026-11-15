@@ -410,3 +410,5 @@
 
 **Tick 00806** · Day 6 of Sprouting · ☔ Rainfall — Brouhoof Dune-born died old and full of years, aged 261 ticks. The glimmer coast will remember.
 
+**Tick 00812** · Day 6 of Sprouting · ☔ Rainfall — The other murls began to follow one of their own — the one now called Yarereed the Patient.
+
