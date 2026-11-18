@@ -416,3 +416,5 @@
 
 **Tick 00814** · Day 6 of Sprouting · ☔ Rainfall — Thalumoss Swift-hoof died old and full of years, aged 261 ticks. The western shallows will remember.
 
+**Tick 00820** · Day 7 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
