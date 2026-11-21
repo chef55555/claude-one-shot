@@ -418,3 +418,5 @@
 
 **Tick 00820** · Day 7 of Sprouting · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
 
+**Tick 00831** · Day 7 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss. The other vyrns began to follow one of their own — the one now called Galabrook the Old Terror.
+
