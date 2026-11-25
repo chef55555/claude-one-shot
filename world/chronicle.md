@@ -420,3 +420,5 @@
 
 **Tick 00831** · Day 7 of Sprouting · ☔ Rainfall — Clouds gathered and the rain began, drumming softly on the moss. The other vyrns began to follow one of their own — the one now called Galabrook the Old Terror.
 
+**Tick 00840** · Day 1 of Deep Summer · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Pelledusk the Lean. ☀️ The season turned. Deep Summer settled over Cronterra.
+
