@@ -422,3 +422,5 @@
 
 **Tick 00840** · Day 1 of Deep Summer · ☔ Rainfall — The other vyrns began to follow one of their own — the one now called Pelledusk the Lean. ☀️ The season turned. Deep Summer settled over Cronterra.
 
+**Tick 00843** · Day 1 of Deep Summer · 🌤️ Clear skies — The sky cleared. Light returned to the lowlands.
+
